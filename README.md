@@ -31,9 +31,7 @@ I've started my my programmer way from Pascal, then I've learned basics of HTML 
 <p align="left"> <a href="https://www.github.com/alexbud1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ace1nsleeve" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=alexbud1" width="400"/>
-</a>
+![LeetCode Stats](https://leetcode.card.workers.dev/alexbud1?theme=nord&font=baloo&extension=null)
 
 
 ### Badges
