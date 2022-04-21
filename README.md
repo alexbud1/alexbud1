@@ -7,7 +7,7 @@ Web developer + scripts and bots
 I've started my my programmer way from Pascal, then I've learned basics of HTML and CSS. My next aim was JavaScript, which I had successfully studied. Also I'm good at Django and developing python scripts including Selenium and others.
 
 * 🌍  I'm based in Kyiv
-* 🧠  I'm learning Currently I'm learning React and Django Rest Framework
+* 🧠  Currently I'm learning React and Django Rest Framework
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
