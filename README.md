@@ -15,6 +15,8 @@ I've started my way of programming from Pascal.After it, I have learned OOP conc
 <a href="https://www.github.com/alexbud1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alexbud1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/af5248c3-19d7-457e-ae56-164e424b329e.svg)](https://wakatime.com/@af5248c3-19d7-457e-ae56-164e424b329e)
+
 ### Skills
 
 <p align="left">
