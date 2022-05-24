@@ -4,12 +4,12 @@ Hi 👋 My name is Oleksii Budzinskyi
 Web developer + scripts and bots creator
 ----------------------------------------
 
-I've started my way of programming from Pascal.After it, I have learned OOP concepеs in Java Core crash course. My next target was Python,which became my main programming language. Then I've learned basics of HTML and CSS. My next aim was JavaScript, which I had successfully studied. Also I'm good at Django and developing python scripts including Selenium and other libraries as Aiogram and Telethon.
+I've started my way of programming from Pascal. After it, I have learned OOP concepts in Java Core crash course. My next target was Python, which became my main programming language. Then I've learned basics of HTML and CSS. My next aim was JavaScript, which I had successfully studied. Also I'm good at Django and developing python scripts including Selenium and other libraries as Aiogram and Telethon.
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [alexbud.optional@gmail.com](mailto:alexbud.optional@gmail.com)
-* 🚀  I'm currently working on [website for Ukrainian Freedom News](http://ukrainian-freedom-news.herokuapp.com)
-* 🧠  I'm learning React framework and aiogram for Python.
+* 🚀  I'm currently working on my SKILLS.
+* 🧠  I'm learning React framework.
 * 🤝  I'm open to collaborating on any projects :)
 
 <a href="https://www.github.com/alexbud1" target="_blank" rel="noreferrer"><img
