@@ -4,7 +4,7 @@ Hi 👋 My name is Oleksii Budzinskyi
 Web developer + scripts and bots creator
 ----------------------------------------
 
-I've started my way of programming from Pascal. After it, I have learned OOP concepts in Java Core crash course. My next target was Python, which became my main programming language. Then I've learned basics of HTML and CSS. My next aim was JavaScript, which I had successfully studied. Also I'm good at Django and developing python scripts including Selenium and other libraries as Aiogram and Telethon.
+I'm good at creating backend on Django or Django Rest Framework. My main programming language is Python and I am efficient enough in using it. I have experiece of using SQLAlchemy, Telebot, Aiogram, Telethon, Selenium. Thereby I can develop different scripts, web-scrappers, REST Api's and Telegram bots. Besides I know essentials of CSS, HTML, JavaScript. So the basic landing page or website is not a challange for me.
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [alexbud.optional@gmail.com](mailto:alexbud.optional@gmail.com)
