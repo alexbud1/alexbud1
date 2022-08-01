@@ -6,10 +6,9 @@ Web developer + scripts and bots creator
 
 I'm good at creating backend on Django or Django Rest Framework. My main programming language is Python and I am efficient enough in using it. I have experiece of using SQLAlchemy, Telebot, Aiogram, Telethon, Selenium. Thereby I can develop different scripts, web-scrappers, REST Api's and Telegram bots. Besides I know essentials of CSS, HTML, JavaScript. So the basic landing page or website is not a challange for me.
 
-* 🌍  I'm based in Kyiv
+* 🌍  I'was born in Kyiv, but now I live in Poland.
 * ✉️  You can contact me at [alexbud.optional@gmail.com](mailto:alexbud.optional@gmail.com)
-* 🚀  I'm currently working on my SKILLS.
-* 🧠  I'm learning React framework.
+* 🧠  Currently I'm learning all the basics for Backend.
 * 🤝  I'm open to collaborating on any projects :)
 
 <a href="https://www.github.com/alexbud1" target="_blank" rel="noreferrer"><img
@@ -24,7 +23,6 @@ src="https://img.shields.io/github/followers/alexbud1?logo=github&style=for-the-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
