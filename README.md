@@ -12,6 +12,8 @@ I'm good at creating backend on Django or Django Rest Framework. My main program
 * 🤝  I'm open to collaborating on any projects :)
 * 🔭 I’m currently working on my [my pet-project](https://github.com/alexbud1/Medical-system-Rest-Api)
 
+<a href="https://wakatime.com/@af5248c3-19d7-457e-ae56-164e424b329e"><img src="https://wakatime.com/badge/user/af5248c3-19d7-457e-ae56-164e424b329e.svg" alt="Total time coded since May 3 2022" /></a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-budzinskyi-5395a6246/)
