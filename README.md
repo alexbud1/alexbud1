@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on my [my pet-project](https://github.com/alexbud1/Medical-system-Rest-Api)<br>👯 I’m looking to collaborate on any backend projects.<br>🌱 I’m currently learning Django Rest Framework and other stack for backend.<br>💬 Ask me about Python and Django<br>⚡ I'm 17 years old software developer from Ukraine.
+Hi 👋 My name is Oleksii Budzinskyi
+===================================
+
+Web developer + scripts and bots creator
+----------------------------------------
+
+I'm good at creating backend on Django or Django Rest Framework. My main programming language is Python and I am efficient enough in using it. I have experiece of using SQLAlchemy, Telebot, Aiogram, Telethon, Selenium. Thereby I can develop different scripts, web-scrappers, REST Api's and Telegram bots. Besides I know essentials of CSS, HTML, JavaScript. So the basic landing page or website is not a challange for me.
+
+* 🌍  I'was born in Kyiv, but now I live in Poland.
+* ✉️  You can contact me at [alexbud1.dev@gmail.com](mailto:alexbud1.dev@gmail.com)
+* 🧠  Currently I'm learning all the basics for Backend.
+* 🤝  I'm open to collaborating on any projects :)
+* 🔭 I’m currently working on my [my pet-project](https://github.com/alexbud1/Medical-system-Rest-Api)
 
 
 ## 🌐 Socials:
