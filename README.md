@@ -1,56 +1,55 @@
-<h2 align="left">Hi 👋! My name is Oleksii Budzinskyi and I'm an ambitious backend developer, from Ukraine.</h2>
+Hi 👋 My name is Oleksii Budzinskyi
+===================================
 
-###
+Web developer + scripts and bots creator
+----------------------------------------
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=alexbud1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=4&theme=react&hide_border=false&username=alexbud1" height="150" alt="languages graph"  />
-</div>
+I'm good at creating backend on Django or Django Rest Framework. My main programming language is Python and I am efficient enough in using it. I have experiece of using SQLAlchemy, Telebot, Aiogram, Telethon, Selenium. Thereby I can develop different scripts, web-scrappers, REST Api's and Telegram bots. Besides I know essentials of CSS, HTML, JavaScript. So the basic landing page or website is not a challange for me.
 
-###
+* 🌍  I'was born in Kyiv, but now I live in Poland.
+* ✉️  You can contact me at [alexbud.optional@gmail.com](mailto:alexbud.optional@gmail.com)
+* 🧠  Currently I'm learning all the basics for Backend.
+* 🤝  I'm open to collaborating on any projects :)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" width="42" alt="sqlalchemy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" width="42" alt="chrome logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
+<a href="https://www.github.com/alexbud1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/alexbud1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-###
+<a href="https://wakatime.com/@af5248c3-19d7-457e-ae56-164e424b329e"><img src="https://wakatime.com/badge/user/af5248c3-19d7-457e-ae56-164e424b329e.svg" alt="Total time coded since May 3 2022" /></a>
 
-<div align="left">
-  <a href="https://t.me/ace1nsleeve" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/oleksii-budzinskyi-5395a6246/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+### Skills
 
-<br clear="both">
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-<img href="https://raw.githubusercontent.com/alexbud1/alexbud1/blob/output/snake.svg" alt="Snake animation" />
 
-###
+### Socials
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexbud1.alexbud1&"  />
-</div>
+<p align="left"> <a href="https://www.github.com/alexbud1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ace1nsleeve" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-###
+
+### LeetCode stats
+![LeetCode Stats](https://leetcode.card.workers.dev/alexbud1?theme=nord&font=baloo&extension=null)
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/alexbud1"><img src="https://github-readme-stats.vercel.app/api?username=alexbud1&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alexbud1's GitHub stats" /></a>
+
+<a href="http://www.github.com/alexbud1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexbud1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/alexbud1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbud1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
