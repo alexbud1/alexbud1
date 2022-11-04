@@ -4,13 +4,12 @@ Hi 👋 My name is Oleksii Budzinskyi
 Web developer + scripts and bots creator
 ----------------------------------------
 
-I'm good at creating backend on Django or Django Rest Framework. My main programming language is Python and I am efficient enough in using it. I have experiece of using SQLAlchemy, Telebot, Aiogram, Telethon, Selenium. Thereby I can develop different scripts, web-scrappers, REST Api's and Telegram bots. Besides I know essentials of CSS, HTML, JavaScript. So the basic landing page or website is not a challange for me.
+My main focus is backend on Python. I am efficient enough in using Django, Django Rest Framework and PostgreSQL. I have also created bots in Telegram social network in Telebot, Aiogram and Telethon. In addition to this I have some experience of using SQLAlchemy, Selenium, Requests and some other Python modules. I'm also familiar with HTML, CSS and JavaScript.
 
-* 🌍  I'was born in Kyiv, but now I live in Poland.
+* 🌍  I'was born in Kyiv, but now I live and study in Poland.
 * ✉️  You can contact me at [alexbud1.dev@gmail.com](mailto:alexbud1.dev@gmail.com)
-* 🧠  Currently I'm learning all the basics for Backend.
+* 🧠  Currently I'm mastering my backend stack.
 * 🤝  I'm open to collaborating on any projects :)
-* 🔭 I’m currently working on my [my pet-project](https://github.com/alexbud1/Medical-system-Rest-Api)
 
 <a href="https://wakatime.com/@af5248c3-19d7-457e-ae56-164e424b329e"><img src="https://wakatime.com/badge/user/af5248c3-19d7-457e-ae56-164e424b329e.svg" alt="Total time coded since May 3 2022" /></a>
 
