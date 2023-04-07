@@ -1,14 +1,14 @@
 Hi 👋 My name is Oleksii Budzinskyi
 ===================================
 
-Web developer + scripts and bots creator
+Software Developer
 ----------------------------------------
 
-My main focus is backend on Python. I am efficient enough in using Django, Django Rest Framework and PostgreSQL. I have also created bots in Telegram social network in Telebot, Aiogram and Telethon. In addition to this I have some experience of using SQLAlchemy, Selenium, Requests and some other Python modules. I'm also familiar with HTML, CSS and JavaScript.
+My main focus is back-end on Python. I am efficient enough in using Django, Django Rest Framework and PostgreSQL. I have also created bots in Telegram via  Telebot, Aiogram and Telethon (Python modules). In addition to this I have some experience of using SQLAlchemy, Selenium. I'm also familiar with HTML, CSS and JavaScript. In addition to this I'm learning basics of DevOps now.
 
-* 🌍  I'was born in Kyiv, but now I live and study in Poland.
+* 🌍  I'was born in Kyiv, Ukraine, but now I live and study in Łódź, Poland.
 * ✉️  You can contact me at [alexbud1.dev@gmail.com](mailto:alexbud1.dev@gmail.com)
-* 🧠  Currently I'm mastering my backend stack.
+* 🧠  Currently I'm mastering my back-end stack and learning about DevOps.
 * 🤝  I'm open to collaborating on any projects :)
 
 <a href="https://wakatime.com/@af5248c3-19d7-457e-ae56-164e424b329e"><img src="https://wakatime.com/badge/user/af5248c3-19d7-457e-ae56-164e424b329e.svg" alt="Total time coded since May 3 2022" /></a>
