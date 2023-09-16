@@ -11,7 +11,7 @@ My main focus is back-end development + DevOps. I am efficient enough in creatin
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleksii-budzinskyi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-budzinskyi/) 
 
 <a href="https://wakatime.com/@af5248c3-19d7-457e-ae56-164e424b329e"><img src="https://wakatime.com/badge/user/af5248c3-19d7-457e-ae56-164e424b329e.svg" alt="Total time coded since May 3 2022" /></a>
 
