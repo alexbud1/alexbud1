@@ -1,13 +1,13 @@
 Hi 👋 My name is Oleksii Budzinskyi
 ===================================
 
-Software Engineer | DevOps
+DevOps Engineer | Software Engineer
 ----------------------------------------
 
-My main focus is back-end development + DevOps. I am efficient enough in creating server-side applications using Python. I have also created bots in Telegram via Telebot, Aiogram, and Telethon (Python modules). In addition to this, I have some experience using SQLAlchemy and Selenium. I'm also familiar with HTML, CSS, and JavaScript.
+My main focus right now is building outstanding skills in DevOps. Previous experience as a Software Engineer is a solid background, which often helps me to understand various processes and needs of developers and clients.
 
 # 💫 About Me:
-🔭 I work for SKNMM | Programmers (University scientific organization).<br>🌱 Right now I am currently edging my skills in developing back-end applications using Django and getting hands-on experience with various DevOps tools.<br>⚡ I'm also passionate about new technologies - so I am learning testing fundamentals :)
+🔭 I am DevOps Intern and currently I practice a lot with Linux, Docker, Bash, Python, CI/CD, Ansible, Kubernetes, Terraform and AWS.
 
 
 ## 🌐 Socials:
