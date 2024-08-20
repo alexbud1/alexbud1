@@ -1,13 +1,13 @@
 Hi 👋 My name is Oleksii Budzinskyi
 ===================================
 
-DevOps Engineer | Software Engineer
+DevOps Engineer | Software Developer
 ----------------------------------------
 
-My main focus right now is building outstanding skills in DevOps. Previous experience as a Software Engineer is a solid background, which often helps me to understand various processes and needs of developers and clients.
+My main focus right now is building outstanding skills in DevOps. My previous experience as a software engineer is a solid background, which often helps me understand various processes and the needs of developers and clients.
 
 # 💫 About Me:
-🔭 I am DevOps Intern and currently I practice a lot with Linux, Docker, Bash, Python, CI/CD, Ansible, Kubernetes, Terraform and AWS.
+🔭 I am a Junior DevOps Engineer and currently, I practice a lot with Linux, Docker, Bash, Python, CI/CD, Jenkins, Kubernetes, Terraform and AWS.
 
 
 ## 🌐 Socials:
